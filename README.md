@@ -1,2 +1,0 @@
-# Wheelchair Ramps-Classification
- 
