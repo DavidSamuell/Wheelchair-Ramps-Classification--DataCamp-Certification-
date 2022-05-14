@@ -290,7 +290,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](Documentation/output_11_0.png)
     
 
 
@@ -408,7 +408,7 @@ sns.countplot(x = target, data = df_train)
 
 
     
-![png](output_15_1.png)
+![png](Documentation/output_15_1.png)
     
 
 
@@ -440,19 +440,19 @@ for col in num_cols:
 
 
     
-![png](output_19_0.png)
+![png](Documentation/output_19_0.png)
     
 
 
 
     
-![png](output_19_1.png)
+![png](Documentation/output_19_1.png)
     
 
 
 
     
-![png](output_19_2.png)
+![png](Documentation/output_19_2.png)
     
 
 
@@ -473,31 +473,31 @@ for col in categorical:
 
 
     
-![png](output_23_0.png)
+![png](Documentation/output_23_0.png)
     
 
 
 
     
-![png](output_23_1.png)
+![png](Documentation/output_23_1.png)
     
 
 
 
     
-![png](output_23_2.png)
+![png](Documentation/output_23_2.png)
     
 
 
 
     
-![png](output_23_3.png)
+![png](Documentation/output_23_3.png)
     
 
 
 
     
-![png](output_23_4.png)
+![png](Documentation/output_23_4.png)
     
 
 
@@ -524,7 +524,7 @@ plt.show()
 
 
     
-![png](output_26_1.png)
+![png](Documentation/output_26_1.png)
     
 
 
@@ -1230,7 +1230,7 @@ plot_fi(fi)
 
 
     
-![png](output_58_1.png)
+![png](Documentation/output_58_1.png)
     
 
 
@@ -2031,7 +2031,7 @@ plot_fi(rf_fi)
 
 
     
-![png](output_97_1.png)
+![png](Documentation/output_97_1.png)
     
 
 
@@ -2362,7 +2362,7 @@ plot_fi(sgb_fi)
 
 
     
-![png](output_112_1.png)
+![png](Documentation/output_112_1.png)
     
 
 
